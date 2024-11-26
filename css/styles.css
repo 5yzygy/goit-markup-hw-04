@@ -66,9 +66,12 @@ img
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    /* color: #2E2F42; */
 
     padding: 24px 0;
+
+    position: relative;
+    color: #404BBF;
 }
 
 .navbar-element:hover, .navbar-element:focus
