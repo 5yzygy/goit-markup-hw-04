@@ -308,6 +308,13 @@ img
     background-color: #404BBF;
 }
 
+.smedia-svg
+{
+    width: 16px;
+    height: 16px;
+    fill: #F4F4FD;
+}
+
 .portfolio-section
 {
     padding: 120px 0;
