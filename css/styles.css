@@ -202,6 +202,12 @@ img
     margin-bottom: 8px;
 }
 
+.svg
+{
+    width: 64px;
+    height: 64px;
+}
+
 .section-title
 {
     font-size: 36px;
