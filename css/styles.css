@@ -442,12 +442,7 @@ img
 
 }
 
-.footer-smedia-icon:hover
-{
-    background-color: #31D0AA;
-}
-
-.footer-smedia-icon:focus
+.footer-smedia-icon:hover, .footer-smedia-icon:focus
 {
     background-color: #31D0AA;
 }
