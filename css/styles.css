@@ -22,6 +22,8 @@ img
     width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+
+    align-items: baseline;
 }
 
 .navbar
@@ -386,6 +388,12 @@ img
     color: #F4F4FD;
 }
 
+.footer-wrapper
+{
+    margin-right: 120px;
+
+}
+
 .footer-description
 {
     line-height: 1.5;
@@ -393,4 +401,26 @@ img
     letter-spacing: 0.02em;
 
     max-width: 264px;
+}
+
+.footer-social-media
+{
+
+}
+
+.footer-smedia-title
+{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+
+}
+
+.footer-smedia-list
+{
+    display: flex;
+    gap: 16px;
 }
