@@ -350,11 +350,6 @@ img
     overflow: hidden;
 }
 
-.project-image:hover
-{
-    transform: translateY(0%);
-}
-
 /* overlay description */
 .overlay-desc
 {
